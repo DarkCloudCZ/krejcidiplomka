@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MBDB Review Tool"
+abstract: "Diploma thesis project. Fetches metadata records from the Molecular Biophysics Database (MBDB) and runs rule-based and LLM-powered validators to identify potential issues."
+type: software
+authors:
+  - family-names: "Krejčí"
+    given-names: "Kryštof"
+    affiliation: "Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering"
+license: MIT
+repository-code: "https://github.com/DarkCloudCZ/krejcidiplomka"
+url: "https://krejcidiplomka.cz/"
+date-released: "2026-10-21"
+keywords:
+  - MBDB
+  - metadata validation
+  - LLM
+  - FAIR data
