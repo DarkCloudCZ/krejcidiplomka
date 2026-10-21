@@ -73,3 +73,6 @@ mbdb_reviewer/
             ├── App.tsx   # Main React component
             └── App.css   # Styles
 ```
+## License
+
+MIT, see [LICENSE](LICENSE).
